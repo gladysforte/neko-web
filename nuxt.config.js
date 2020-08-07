@@ -59,7 +59,7 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
-    baseURL: "http://localhost:8000/api/v1"
+    baseURL: "https://nekoapi.herokuapp.com/api/v1"
   },
   /*
   ** Build configuration
